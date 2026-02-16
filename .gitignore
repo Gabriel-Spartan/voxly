@@ -6,3 +6,5 @@ appsettings.Development.json
 *.secrets
 .vscode/
 .vs/
+.idea/
+src/backend/.idea/
