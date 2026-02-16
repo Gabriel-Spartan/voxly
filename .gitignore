@@ -1,0 +1,8 @@
+# Archivo .gitignore para proyectos .NET
+bin/
+obj/
+appsettings.Development.json
+*.user
+*.secrets
+.vscode/
+.vs/
